@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Label id="name"></Label>
+		<Label id="distance"></Label>
+		 <ImageView id="image" image="/compass.png" />
+		 <ImageView id="wifilogo" image="/wifi_logo.png" />
+	</Window>
+</Alloy>

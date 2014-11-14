@@ -1,0 +1,39 @@
+".container": {
+	backgroundColor:"#c0392b",
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#fff"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#fff",
+	font: {
+        fontFamily:'Arial Narrow',
+        fontSize: '30dp',
+        fontStyle: 'normal',
+        fontWeight: 'normal',
+	}
+}
+
+"#name": {
+	top:'45dp'
+}
+
+"#distance": {
+	bottom:'45dp'
+}
+
+"#image": {
+	height: '300dp',
+	width: '300dp'
+}
+
+"#wifilogo": {
+	height: '300dp',
+	width: '300dp'
+}
